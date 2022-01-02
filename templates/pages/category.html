@@ -28,7 +28,7 @@ category:
 {{/if}}
 {{#unless theme_settings.hide_category_page_heading }}
     <h1 class="page-heading">{{category.name}}</h1>
-    {{{region name="category_below_header"}}}
+    {{{region name="trippy_category_below_header"}}}
 {{/unless}}
 {{{category.description}}}
 <div class="page">
@@ -50,7 +50,7 @@ category:
 
     <div class="page-content" id="product-listing-container">
         {{> components/category/product-listing}}
-        {{{region name="category_below_content"}}}
+        {{{region name="trippy_category_below_content"}}}
     </div>
 </div>
 

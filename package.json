@@ -1,9 +1,9 @@
 {
-  "name": "bigcommerce-cornerstone",
-  "description": "The BigCommerce reference theme for the Stencil platform",
-  "version": "6.2.0",
+  "name": "trippydogg-groovy",
+  "description": "TrippyDogg Groovy version of the BigCommerce reference theme for the Stencil platform",
+  "version": "1.0.0",
   "private": true,
-  "author": "BigCommerce",
+  "author": "BlackTDigital",
   "license": "MIT",
   "dependencies": {
     "@bigcommerce/stencil-utils": "^6.8.1",
